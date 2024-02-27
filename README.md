@@ -45,7 +45,7 @@ Saya telah berkontribusi pada berbagai proyek yang melibatkan analisis data komp
 
 **What I love**
 
-| <img src=https://github.com/Amchuz/Amchuz/blob/master/Coding.png width="85" height="85"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/kpop.png width="85" height="85"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/anime.jpg width="85" height="85"> | 
+| <img src=https://github.com/Amchuz/Amchuz/blob/master/Coding.png width="85" height="85"> | ![Godot Game Template Demo](https://play-lh.googleusercontent.com/aOVexQckoyjN2WJp_puq8ifTr2TnWwJ-cNw6iflcH0IpQYp04m_ChTd0jwkCKalz5wVM=s100-rw) | <img src=https://github.com/Amchuz/Amchuz/blob/master/anime.jpg width="85" height="85"> | 
 | :---: | :---: | :---: |
 | <b>Coding</b> | <b>Game</b> | <b>Anime</b> |
 
