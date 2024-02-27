@@ -5,7 +5,7 @@ Halo semua! Saya Zaenal Muttakin, seorang pengembang perangkat lunak dengan hasr
 ## Kepakaran
 
 - **Bahasa Pemrograman**: JavaScript, Python, Java
-- **Pengembangan Web**: HTML, CSS, Sass
+- **Pengembangan Web**: HTML, CSS
 - **Teknologi Cloud**: Google Cloud Platform
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
@@ -13,7 +13,6 @@ Halo semua! Saya Zaenal Muttakin, seorang pengembang perangkat lunak dengan hasr
 ![Java](https://img.shields.io/badge/-Java-orange)
 ![HTML](https://img.shields.io/badge/-HTML-red)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
-![Sass](https://img.shields.io/badge/-Sass-pink)
 ![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-blue)
 
 ## Pendidikan
